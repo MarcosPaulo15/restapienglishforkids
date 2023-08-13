@@ -1,23 +1,21 @@
 {
-  "users":[
+  "users": [
     {
       "id": 1,
       "name": "Danilo Filitto",
       "email": "danilo.filitto@gmail.com",
       "xp": 0,
-      "highscore":0
+      "highscore": 0
     }
   ],
-
-  "words":[
+  "words": [
     {
       "id": 1,
       "world": "Two",
       "translation": "Dois",
-      "categories": "Numbers" 
+      "categories": "Numbers"
     }
   ],
-
   "categories": [
     {
       "id": 1,
@@ -33,6 +31,11 @@
       "name": "colors",
       "image": "https://dfilitto.com.br/wp-content/uploads/2020/03/logo-menor.png",
       "id": 3
+    },
+    {
+      "name": "Man-Lunnar",
+      "image": "https://img.olhardigital.com.br/wp-content/uploads/2022/12/Destaque-gravidade-na-lua.jpg",
+      "id": 4
     }
   ]
 }
